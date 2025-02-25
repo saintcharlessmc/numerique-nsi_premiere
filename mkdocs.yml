@@ -1,5 +1,5 @@
-site_name: Saint Charles SMC
-site_url: https://gitlab.com/saintcharlessmc
+site_name: Saint Charles SMC - Numerique - NSI Première
+site_url: https://saintcharlessmc.github.io/numerique-nsi_premiere/
 theme:
   name: material
   font:
