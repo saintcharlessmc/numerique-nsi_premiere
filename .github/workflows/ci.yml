@@ -1,6 +1,8 @@
-name: Deploy MkDocs
+name: ci 
+on:
   push:
     branches:
+      - master 
       - main
 permissions:
   contents: write
