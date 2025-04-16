@@ -1,17 +1,8 @@
- # Welcome to MkDocs
+# Accueil
+Vous êtes sur la page de ressources dédiés à la spécialité NSI du Lycée Saint-Charles - Saint Martin de Crau.
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+## Autres ressources :
 
-## Commands
-
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
-
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+* [https://saintcharlessmc.github.io/numerique-snt_seconde/]( https://saintcharlessmc.github.io/numerique- snt_seconde/)
+* [https://saintcharlessmc.github.io/numerique-nsi_premiere/]( https://saintcharlessmc.github.io/numerique-nsi_premiere/)
+* [https://saintcharlessmc.github.io/numerique-nsi_terminale /]( https://saintcharlessmc.github.io/numerique-nsi_terminale/)
